@@ -15,13 +15,13 @@
 
  Final-year Computer Engineering student at **Fr. C. Rodrigues Institute of Technology (FCRIT)** with a **9.68/10 GPA**, specializing in Artificial Intelligence and Machine Learning.
 
- I enjoy building practical AI-powered applications, intelligent automation systems, and full-stack solutions that solve real-world problems.
+ -I enjoy building practical AI-powered applications, intelligent automation systems, and full-stack solutions that solve real-world problems.
 
- Currently working on a **Multi-Agent AI Recruitment System** involving resume analysis, semantic candidate matching, adaptive interviews, and AI-assisted evaluation.
+ -Currently working on a **Multi-Agent AI Recruitment System** involving resume analysis, semantic candidate matching, adaptive interviews, and AI-assisted evaluation.
 
- Interested in **Agentic AI, Machine Learning, Generative AI, Full-Stack Development, and Data Structures & Algorithms.**
+ -Interested in **Agentic AI, Machine Learning, Generative AI, Full-Stack Development, and Data Structures & Algorithms.**
 
- Continuously improving my problem-solving skills and exploring production-oriented AI systems.
+ -Continuously improving my problem-solving skills and exploring production-oriented AI systems.
 
 ---
 
@@ -50,12 +50,6 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI and Machine Learning"/>
 </p>
 
-**Machine Learning:** Regression, Classification, Clustering, NLP, SHAP
-
-**Deep Learning:** Neural Networks, Transformers, LLMs
-
-**Data Science:** NumPy, Pandas, Scikit-learn, Weka
-
 ###  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases"/>
@@ -69,13 +63,10 @@
 ##  Achievements 
 
  **Top 5 — Samved Government Hackathon**
-- Selected among 546 teams for the CareCrew healthcare platform.
+- Selected Top 5 among 546 teams for the SwasthSolapur healthcare platform.
 
  **Academic Performance**
 - B.E. Computer Engineering — GPA: 9.68/10.
 
  Open to discussions about AI/ML, Agentic AI, Full-Stack Development, and innovative projects.
 
-<p align="center">
-  <i>Building intelligent solutions, one project at a time. 🚀</i>
-</p>
