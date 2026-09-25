@@ -1,18 +1,165 @@
-# 💫 About Me:
-Final-year B.Tech student working on IntelliSE — an AI-powered software engineering decision support system (capstone project) 🔍 Interested in ML explainability (SHAP, LIME) and building models that are transparent, not just accurate 🛠️ Working across the stack — from ML pipelines to full React/Node applications 💼 Currently interning, working on ML tooling, model evaluation, and technical documentation 
 
+<h1 align="center">Hi 👋, I'm Sri Satya</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sri-satya-022337342/) 
+<h3 align="center">Final-Year Computer Engineering Student | AI/ML Enthusiast | Full-Stack Developer</h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SriSatya10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=SriSatya10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SriSatya10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/SriSatya10">
+    <img src="https://komarev.com/ghpvc/?username=SriSatya10&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=SriSatya10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🎓 Final-year Computer Engineering student at **Fr. C. Rodrigues Institute of Technology (FCRIT)** with a **9.68/10 GPA**, specializing in Artificial Intelligence and Machine Learning.
+
+💡 I enjoy building practical AI-powered applications, intelligent automation systems, and full-stack solutions that solve real-world problems.
+
+🚀 Currently working on a **Multi-Agent AI Recruitment System** involving resume analysis, semantic candidate matching, adaptive interviews, and AI-assisted evaluation.
+
+🔍 Interested in **Agentic AI, Machine Learning, Generative AI, Full-Stack Development, and Data Structures & Algorithms.**
+
+📚 Continuously improving my problem-solving skills and exploring production-oriented AI systems.
+
+---
+
+## 🛠️ What I Work On
+
+- 🤖 **Agentic AI:** Multi-agent systems, LLM applications, and AI-powered automation.
+- 🧠 **Machine Learning:** Classification, regression, clustering, NLP, and model explainability.
+- 🌐 **Full-Stack Development:** React.js, Node.js, Express.js, and REST APIs.
+- 📊 **Data Science:** Data analysis, predictive modeling, and interactive dashboards.
+- 🧩 **Problem Solving:** Data Structures and Algorithms using C++.
+
+---
+
+## 💼 Experience
+
+### 🔹 AIML Intern — SVIK
+*August 2026 – Present*
+
+- Working on a multi-agent AI recruitment system with 10+ agents.
+- Developing capabilities for JD analysis, resume parsing, semantic candidate matching, adaptive interviews, and AI-assisted evaluation.
+
+### 🔹 AIML Intern — Blackhole Infiverse
+*February 2026 – August 2026*
+
+- Developed a deterministic task review system supporting 11 task types and 2 evaluation workflows.
+- Implemented rule-based evaluation, replay-safe workflows, human approval, explainable decisions, and audit tracking.
+
+### 🔹 Department-Level AIML Intern
+*December 2025 – March 2026*
+
+- Engineered a GenAI automation platform using Google Gemini, React.js, Node.js, Express.js, and MySQL.
+- Streamlined 6 academic documentation and content-generation workflows.
+
+### 🔹 AIML Intern — IBM SkillsBuild
+*June 2025 – July 2025*
+
+- Developed an AI-driven salary prediction platform using KNN, Random Forest, SVM, and Gradient Boosting.
+- Applied feature engineering and hyperparameter tuning to optimize the models.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Machine Learning Analysis of Stroke Awareness and Risk Patterns
+
+- Analyzed **6,168 survey responses** under the Brainline Initiative.
+- Applied K-Means clustering and developed a React.js dashboard for awareness insights and real-time risk prediction.
+- Built a Random Forest model with ROC-AUC of 0.993 and recall of 0.959, with SHAP explainability.
+
+### 🛡️ Sakhi — AI-Powered WhatsApp Chatbot
+
+- Developed an AI-powered WhatsApp chatbot using Node.js, Twilio, and Groq LLaMA 3.3 70B.
+- Implemented stealth emergency alerts with GPS, Haversine-based shelter matching across 42 One Stop Centres, and AI-generated FIR drafts.
+- Supported multilingual distress detection across 10+ languages.
+
+### 🏥 CareCrew — Healthcare Management Platform
+
+- Selected **Top 5 out of 546 teams** at the Samved Government Hackathon for Solapur Municipal Corporation.
+- Built a MERN-based healthcare platform for real-time public health monitoring, medical resource allocation, and emergency response.
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,sql" alt="Languages"/>
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js" alt="Web Development"/>
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI and Machine Learning"/>
+</p>
+
+**Machine Learning:** Regression, Classification, Clustering, NLP, SHAP
+
+**Deep Learning:** Neural Networks, Transformers, LLMs
+
+**Data Science:** NumPy, Pandas, Scikit-learn, Weka
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases"/>
+</p>
+
+### 🔧 Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,firebase,vercel,netlify" alt="Tools"/>
+</p>
+
+---
+
+## 📚 Core Subjects
+
+- Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+
+---
+
+## 🏆 Achievements & Leadership
+
+🏅 **Top 5 — Samved Government Hackathon**
+- Selected among 546 teams for the CareCrew healthcare platform.
+
+👨‍💻 **Assistant Technical Head — AlgoZenith FCRIT**
+- Planned and led coding sessions, contests, and technical workshops.
+- Contributed to building a problem-solving and DSA culture among peers.
+
+🎓 **Academic Performance**
+- B.E. Computer Engineering — GPA: 9.68/10
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/SriSatya10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:bnsrisatya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+💬 Open to discussions about AI/ML, Agentic AI, Full-Stack Development, and innovative projects.
+
+⭐ Feel free to explore my repositories and connect with me!
+
+---
+
+<p align="center">
+  <i>Building intelligent solutions, one project at a time. 🚀</i>
+</p>
