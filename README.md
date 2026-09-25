@@ -15,13 +15,13 @@
 
  Final-year Computer Engineering student at **Fr. C. Rodrigues Institute of Technology (FCRIT)** with a **9.68/10 GPA**, specializing in Artificial Intelligence and Machine Learning.
 
- -I enjoy building practical AI-powered applications, intelligent automation systems, and full-stack solutions that solve real-world problems.
+ - I enjoy building practical AI-powered applications, intelligent automation systems, and full-stack solutions that solve real-world problems.
 
- -Currently working on a **Multi-Agent AI Recruitment System** involving resume analysis, semantic candidate matching, adaptive interviews, and AI-assisted evaluation.
+ - Currently working on a **Multi-Agent AI Recruitment System** involving resume analysis, semantic candidate matching, adaptive interviews, and AI-assisted evaluation.
 
- -Interested in **Agentic AI, Machine Learning, Generative AI, Full-Stack Development, and Data Structures & Algorithms.**
+ - Interested in **Agentic AI, Machine Learning, Generative AI, Full-Stack Development, and Data Structures & Algorithms.**
 
- -Continuously improving my problem-solving skills and exploring production-oriented AI systems.
+ - Continuously improving my problem-solving skills and exploring production-oriented AI systems.
 
 ---
 
